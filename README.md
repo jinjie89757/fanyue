@@ -1,0 +1,2 @@
+# fanyue
+Just another repository
